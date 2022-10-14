@@ -2,7 +2,7 @@
 
 Hello! My name is Ioannis and i am a 24 y.o aspiring Data Scientist - Analyst.
 
-I find myself always searching on facts and data to support my decisions and in combination with my intuition guide my life.
+I find myself always searching on facts and data to support my decisions and in combination with my intuition, guide my life.
 
 ## About the repository
 
@@ -19,8 +19,8 @@ Below you can guide yourself and see what i have done in this data driven journe
 
 ## Hard Skills i have developed through these projects
 
-*Python
-*SQL
-*Excel
-*Tableau
+* Python
+* SQL
+* Excel
+* Tableau
 
