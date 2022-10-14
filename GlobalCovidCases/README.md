@@ -26,5 +26,6 @@ Some queries i run to analyze the data included
 
 and more..
 
-## Credits to <a href="https://www.linkedin.com/in/alex-freberg/" target="_blank">Alex Freberg</a>.Alex Freberg for the initial idea and guidance he provided 
+## Credits to 
+<a href="https://www.linkedin.com/in/alex-freberg/" target="_blank">Alex Freberg</a>. for the initial idea and guidance he provided 
 
