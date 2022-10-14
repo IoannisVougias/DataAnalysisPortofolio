@@ -16,6 +16,10 @@ I analyzed the data for the first seven (7) episodes
 
 To conduct the analysis i used Python 3, pandas through Jupyter Notebook
 
+## The Analysis
+
+You can view the full analysis <a href="https://github.com/IoannisVougias/StarWarsNetworkAnalysis/blob/main/StarWars%20Network%20Analysis.pdf" target="_blank">here</a> or through the "StarWars Network Analysis.pdf" file
+
 ## Credits to 
  
 Ruchi Bhatia for uploading the datasets on kaggle
