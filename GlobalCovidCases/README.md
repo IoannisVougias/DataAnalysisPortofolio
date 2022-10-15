@@ -36,7 +36,7 @@ and more..
 
 You can see the dashboard in a more clear and interactive way on my Tableau public profile
 
-<a href=" https://public.tableau.com/app/profile/ioannis.vougias/viz/GlobalCovid-19Dashboard_16658380586180/Dashboard1" target="_blank">Tableau public profile</a>.
+<a href="https://public.tableau.com/app/profile/ioannis.vougias/viz/GlobalCovid-19Dashboard_16658380586180/Dashboard1" target="_blank">Tableau public profile</a>.
 
 ## Credits to 
 <a href="https://github.com/AlexTheAnalyst" target="_blank">Alex Freberg</a> for the initial idea and guidance he provided 
