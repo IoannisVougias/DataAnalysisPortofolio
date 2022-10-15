@@ -32,11 +32,12 @@ After joining the two tables
 and more..
 
 ## Visualization
+
+Below you can see a very basic dashboard i created based on 4 simple queries. To begin with i copied the results i wanted manually from SSMS to excel. After that i did some data cleaning (replace nulls)  in order to upload the excel files into Tableau public. After that i created 4 sheets with visualizations and merged them into the dashboard you see below.
+
 ![alt text](https://github.com/IoannisVougias/DataAnalysisPortofolio/blob/main/GlobalCovidCases/GlobalCovid_Dashboard.png?raw=true)
 
-You can see the dashboard in a more clear and interactive way on my Tableau public profile
-
-<a href="https://public.tableau.com/app/profile/ioannis.vougias/viz/GlobalCovid-19Dashboard_16658380586180/Dashboard1" target="_blank">Tableau public profile</a>.
+You can see the dashboard in a more clear and interactive way on my <a href="https://public.tableau.com/app/profile/ioannis.vougias/viz/GlobalCovid-19Dashboard_16658380586180/Dashboard1" target="_blank">Tableau public profile</a>.
 
 ## Credits to 
 <a href="https://github.com/AlexTheAnalyst" target="_blank">Alex Freberg</a> for the initial idea and guidance he provided 
