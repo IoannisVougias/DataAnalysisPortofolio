@@ -12,7 +12,9 @@ I analyzed data between the dates of 01/01/2020 to 30/04/2021 were Covid-19 was 
 
 ## Tools Used
 
-To conduct the analysis i used SQL Server Management Studio (SSMS) and SQL programming language
+To conduct the analysis i used SQL Server Management Studio (SSMS) and SQL programming language.
+
+I also used Excel and Tableau to make a dashboard. ~See Below
 
 ## Queries
 
@@ -28,6 +30,10 @@ After joining the two tables
 5) Find the cummulative Percentage of vaccinated population
 
 and more..
+
+##Visualization
+![alt text](https://github.com/IoannisVougias/DataAnalysisPortofolio/blob/main/GlobalCovidCases/GlobalCovid_Dashboard.png?raw=true)
+
 
 ## Credits to 
 <a href="https://github.com/AlexTheAnalyst" target="_blank">Alex Freberg</a> for the initial idea and guidance he provided 
