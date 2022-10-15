@@ -30,5 +30,5 @@ After joining the two tables
 and more..
 
 ## Credits to 
-<a href="https://www.linkedin.com/in/alex-freberg/" target="_blank">Alex Freberg</a> for the initial idea and guidance he provided 
+<a href="https://github.com/AlexTheAnalyst" target="_blank">Alex Freberg</a> for the initial idea and guidance he provided 
 
