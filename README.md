@@ -17,10 +17,11 @@ Below you can guide yourself and see what i have done in this data driven journe
 * <a href="https://github.com/IoannisVougias/DataAnalysisPortofolio/tree/main/StarWarsMoviesNetwork" target="_blank">Star Wars Movies Analysis</a>.
 
 
-## Hard Skills i have developed through these projects
+## Hard Skills 
+I have developed through these projects
 
-* Python
-* SQL
+* Python (Numpy, Pandas, matplotlib, seaborn
+* SQL (SSMS, MySQL Workbench)
 * Excel
-* Tableau
+* Tableau (Public)
 
