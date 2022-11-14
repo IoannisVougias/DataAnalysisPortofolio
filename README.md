@@ -15,12 +15,13 @@ Below you can see for yourself what i have done in this data driven journey.
 
 * <a href="https://github.com/IoannisVougias/DataAnalysisPortofolio/tree/main/GlobalCovidCases" target="_blank">Covid Cases Analysis</a>.
 * <a href="https://github.com/IoannisVougias/DataAnalysisPortofolio/tree/main/StarWarsMoviesNetwork" target="_blank">Star Wars Movies Analysis</a>.
+* <a href="https://github.com/IoannisVougias/DataAnalysisPortofolio/tree/main/Economic%20Connectedness" target="_blank">Economic Connectedness Analysis</a>.
 
 
 ## Hard Skills 
 I have developed through these projects
 
-* Python (Numpy, Pandas, matplotlib, seaborn)
+* Python (Numpy, Pandas, matplotlib, seaborn, plotly)
 * SQL (SSMS, MySQL Workbench)
 * Excel
 * Tableau (Public)
