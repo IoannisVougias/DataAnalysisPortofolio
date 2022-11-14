@@ -2,6 +2,12 @@
 
 This is a Data Analysis project to demonstrate my skills in Python programming language. This project includes five (5) .csv files, two (2) .dta files containg the datasets i used and one (1) .ipnynb file containing the final code.
 
+This analysis contains several visual replications of figures in Python based on the the following papers.
+
+Chetty, R., Jackson, M.O., Kuchler, T. et al. Social capital I: measurement and associations with economic mobility. Nature 608, 108–121 (2022). https://doi.org/10.1038/s41586-022-04996-4.
+
+Chetty, R., Jackson, M.O., Kuchler, T. et al. Social capital II: determinants of economic connectedness. Nature 608, 122–134 (2022). https://doi.org/10.1038/s41586-022-04997-3.
+
 ## About the Dataset
 
 #### Below is the list of all the unique files used in this notebook:
