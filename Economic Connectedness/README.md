@@ -43,26 +43,26 @@ To conduct the analysis i used Jupyter Notebook and Python.
 
 ## Visualization
 
-* First Plot
+### First Plot
 
 This is a replication of Figure 2a of the first paper, making it look like the interactive one we can find available online at https://www.socialcapital.org/.
 It shows economic connectedness per county.
 
 ![alt text](https://github.com/IoannisVougias/DataAnalysisPortofolio/blob/main/Economic%20Connectedness/Graphs/ec_county.png)
 
-* Second Plot
+### Second Plot
 
 This is a replication on the Figure 4 of the first paper. The figure is a scatter plot of upward income mobility against economic connectedness (EC) for the 200 most populous US counties.
 
 ![alt text](https://github.com/IoannisVougias/DataAnalysisPortofolio/blob/main/Economic%20Connectedness/Graphs/household_income_ec.png)
 
-* Third Plot
+### Third Plot
 
 This is a replication of the Figure 6 of the first paper. The figure is a scatter plot of economic connectedness (EC) against median household income. The color of the dots corresponds to the child's income rank in adulthood given that the parents' income is in the 25th percentile. The colors correspond to five intervals, which are the quintiles dividing our data.
 
 ![alt text](https://github.com/IoannisVougias/DataAnalysisPortofolio/blob/main/Economic%20Connectedness/Graphs/upward_mobility_ec.png)
 
-* Fourth Plot
+### Fourth Plot
 
 This is a replication of Figure 5a of the second paper. The figure depicts the Socio-Economic Status (SES) of parents against the friending bias of students of low SES, with data from the Social Capital Atlas Datasets.
 
@@ -70,7 +70,7 @@ Both  𝑥  and  𝑦  axis are percentages and the  𝑦  axis are reversed.
 
 ![alt text](https://github.com/IoannisVougias/DataAnalysisPortofolio/blob/main/Economic%20Connectedness/Graphs/friending_bias_hs.png)
 
-* Fifth Plot
+### Fifth Plot
 
 This is a replication of Extended Data Figure 3 of the second paper. The figure depicts friending bias against racial diversity. Racial diversity is defined by the Herfindahl-Hirschman Index (HHI), borrowed from investing. Translated here, it is  1−∑𝑖𝑠𝑖2 , where  𝑠𝑖  is the fraction of race/ethnicity  𝑖  (Black, White, Asian, Hispanic, Native American).
 
