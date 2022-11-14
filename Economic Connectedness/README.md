@@ -4,6 +4,7 @@ This is a Data Analysis project to demonstrate my skills in Python programming l
 
 ## About the Dataset
 
+#### Below is the list of all the unique files used in this notebook:
 For the **first** plot
 * 'social_capital_county.csv'
 * 'https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json'
@@ -22,8 +23,8 @@ For the **fifth** plot
 * 'college_characteristics.csv', converted file from original 'college_characteristics.dta'
 * 'social_capital_college.csv'
 
--
 In some plots files from previous ones were used.
+
 ## Tools Used
 
 To conduct the analysis i used Jupyter Notebook and Python.
