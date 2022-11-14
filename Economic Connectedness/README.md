@@ -10,6 +10,10 @@ Chetty, R., Jackson, M.O., Kuchler, T. et al. Social capital II: determinants of
 
 The .ipynb contains full detailed information on the datasets, the procedure and the analysis done.
 
+The topic of the analysis is Social Capital, Economic Connectedness, Friending Bias and Upward Mobility in the U.S.A.
+
+The share of high-SES friends among individuals with low SES — which we term economic connectedness — is among the strongest predictors of upward income mobility identified to date.
+
 ## About the Dataset
 
 #### Below is the list of all the unique files used in this notebook:
@@ -40,6 +44,10 @@ To conduct the analysis i used Jupyter Notebook and Python.
 ## Visualization
 
 * First Plot
+* 
+This is a replication of Figure 2a of the first paper, making it look like the interactive one we can find available online at https://www.socialcapital.org/.
+It shows economic connectedness per county.
+
 ![alt text](https://github.com/IoannisVougias/DataAnalysisPortofolio/blob/main/Economic%20Connectedness/Graphs/ec_county.png)
 
 ## Credits to 
