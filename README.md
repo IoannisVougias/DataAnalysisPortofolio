@@ -16,6 +16,7 @@ Below you can see for yourself what i have done in this data driven journey.
 * <a href="https://github.com/IoannisVougias/DataAnalysisPortofolio/tree/main/GlobalCovidCases" target="_blank">Covid Cases Analysis</a>.
 * <a href="https://github.com/IoannisVougias/DataAnalysisPortofolio/tree/main/StarWarsMoviesNetwork" target="_blank">Star Wars Movies Analysis</a>.
 * <a href="https://github.com/IoannisVougias/DataAnalysisPortofolio/tree/main/Economic%20Connectedness" target="_blank">Economic Connectedness Analysis</a>.
+* <a href="https://github.com/IoannisVougias/DataAnalysisPortofolio/tree/main/International%20Sports%20Event%20Repression" target="_blank">International Sports Events: Window Dressing and Repression analysis</a>.
 
 
 ## Hard Skills 
@@ -25,4 +26,6 @@ I have developed through these projects
 * SQL (SSMS, MySQL Workbench)
 * Excel
 * Tableau (Public)
+* Statistics
+* Regressions Models (OLS, Negative Binominal)
 
