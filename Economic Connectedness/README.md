@@ -1,5 +1,7 @@
 # About the Project
 
+Social capital, or the strength of an individual's social network and community, has been linked to a variety of outcomes such as education and health. However, the lack of social network data has hindered efforts to understand which types of social capital are most important for these outcomes. Using data on 21 billion Facebook friendships, this study measures and analyzes three types of social capital in the United States: connectedness between different types of people, social cohesion, and civic engagement. These measures vary significantly across areas, but are not highly correlated with each other. The study found that economic connectedness, or the share of high-socioeconomic status friends among individuals with low socioeconomic status, is a strong predictor of upward income mobility. Other social capital measures are not as strongly associated with economic mobility.
+
 This is a Data Analysis project to demonstrate my skills in Python programming language. This project includes five (5) .csv files, two (2) .dta files containg the datasets i used and one (1) .ipynb file containing the final code.
 
 This analysis contains several visual replications of figures in Python based on the the following papers.
