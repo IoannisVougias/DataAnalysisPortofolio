@@ -10,6 +10,12 @@ Campaign Details:
 
 This is a Data Analysis project to demonstrate my skills in Python programming language. This project includes five (1) .pdf file  and one (1) .ipynb file containing the final code.
 
+## Data
+
+Due to confidentiality reasons the csv files containing the data cannot be uploaded to this repository.
+
 ## Tools Used
 
 To conduct the analysis i used Jupyter Notebook and Python.
+
+
