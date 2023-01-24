@@ -1,7 +1,6 @@
 # About the Project
 
 The CRM team decided to run a Casino campaign for the period 25/01/2020 and 04/02/2020.
-In an effort to evaluate the campaign, this case study analyzes the impact of this campaign. 
 
 In order to proceed with the evaluation, CRM provided the below info.
 
